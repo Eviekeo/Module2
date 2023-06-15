@@ -15,5 +15,5 @@ The following code was provided as guidance from the bootcamp tutor, for the pur
         'below code was used in the for loop, to find the opening value of each stock (located at the open price row, and in column 3).
         openvalue = ws.Cells(openprice_row, 3).Value
         
-        'as the code goes through each iteration, the first price of each subsequent stock after row 2 will be equal to 'i=2'
+        'as the code goes through each iteration, the first price of each subsequent stock after row 2 will be equal to 'i + 1'
         openprice_row = i + 1
