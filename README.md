@@ -2,7 +2,8 @@
 As part of my submission for the Module 2 - VBA Challenge, I have uploaded the following files
   - screenshot of the 2018 tab in Excel  
   - screenshot of the 2019 tab in Excel  
-  - screenshot of the 2020 tab in Excel  
+  - screenshot of the 2020 tab in Excel
+  - VBA script of code  
 
 # Code Source
 The following code was provided as guidance from the bootcamp tutor, for the purpose of locating and storing the opening price of each stock, which is the open price at the start of each year. This was used to calculate the yearly change of each stock.
